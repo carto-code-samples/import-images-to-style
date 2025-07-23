@@ -1,6 +1,15 @@
 # import-svgs-to-style
 Imports a folder of image files into an ArcGIS Pro style. The new .stylx file is saved in the same folder as the .svg files. 
 
+Supported image file extentions:
+- .jpg
+- .jpeg
+- .png
+- .gif
+- .bmp
+- .svg
+- .emf
+
 ### Requirements
 - ArcGIS Pro versions 3.3 or later (not tested on earlier versions)
 
