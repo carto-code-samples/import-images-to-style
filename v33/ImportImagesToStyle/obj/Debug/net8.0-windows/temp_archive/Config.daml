@@ -1,0 +1,37 @@
+﻿<ArcGIS defaultAssembly="ImportImagesToStyle.dll" defaultNamespace="ImportImagesToStyle" xmlns="http://schemas.esri.com/DADF/Registry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.esri.com/DADF/Registry file:///C:/Program%20Files/ArcGIS/Pro/bin/ArcGIS.Desktop.Framework.xsd">
+  <AddInInfo id="{73285320-6bcb-401d-b0c6-d2a08efcdbfc}" version="1.0" desktopVersion="3.5.57366" product="ArcGISPro">
+    <Name>ImportImagesToStyle</Name>
+    <Description>ImportImagesToStyle description</Description>
+    <Image>Images\AddinDesktop32.png</Image>
+    <Author>dani9058</Author>
+    <Company>ESRI</Company>
+    <Date>7/23/2025 1:08:17 PM</Date>
+    <Subject>Framework</Subject>
+    <!-- Note subject can be one or more of these topics:
+                    Content, Framework, Editing, Geodatabase, Geometry, Geoprocessing, Layouts, Map Authoring, Map Exploration -->
+  </AddInInfo>
+  <modules>
+    <insertModule id="ImportImagesToStyle_Module" className="Module1" autoLoad="false" caption="Module1">
+      <!-- uncomment to have the control hosted on a separate tab-->
+      <tabs>
+        <!--<tab id="ImportImagesToStyle_Tab1" caption="New Tab">
+          <group refID="ImportImagesToStyle_Group1"/>
+        </tab>-->
+      </tabs>
+      <groups>
+        <!-- comment this out if you have no controls on the Addin tab to avoid
+              an empty group-->
+        <group id="ImportImagesToStyle_Group1" caption="Group 1" appearsOnAddInTab="true">
+          <!-- host controls within groups -->
+          <button refID="ImportImagesToStyle_ImportImagesToStyle" size="large" />
+        </group>
+      </groups>
+      <controls>
+        <!-- add your controls here -->
+        <button id="ImportImagesToStyle_ImportImagesToStyle" caption="Import Images To Style" className="ImportImagesToStyle" loadOnClick="true" smallImage="GenericButtonBlue16" largeImage="GenericButtonBlue32">
+          <tooltip heading="Tooltip Heading">Tooltip text<disabledText /></tooltip>
+        </button>
+      </controls>
+    </insertModule>
+  </modules>
+</ArcGIS>
