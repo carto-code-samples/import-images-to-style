@@ -1,0 +1,13 @@
+C:\github\import-images-to-style\v33\ImportImagesToStyle\bin\Debug\net8.0-windows\ImportImagesToStyle.deps.json
+C:\github\import-images-to-style\v33\ImportImagesToStyle\bin\Debug\net8.0-windows\ImportImagesToStyle.dll
+C:\github\import-images-to-style\v33\ImportImagesToStyle\bin\Debug\net8.0-windows\ImportImagesToStyle.pdb
+C:\github\import-images-to-style\v33\ImportImagesToStyle\obj\Debug\net8.0-windows\ImportImagesToStyle.csproj.AssemblyReference.cache
+C:\github\import-images-to-style\v33\ImportImagesToStyle\obj\Debug\net8.0-windows\ImportImagesToStyle.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\import-images-to-style\v33\ImportImagesToStyle\obj\Debug\net8.0-windows\ImportImagesToStyle.AssemblyInfoInputs.cache
+C:\github\import-images-to-style\v33\ImportImagesToStyle\obj\Debug\net8.0-windows\ImportImagesToStyle.AssemblyInfo.cs
+C:\github\import-images-to-style\v33\ImportImagesToStyle\obj\Debug\net8.0-windows\ImportImagesToStyle.csproj.CoreCompileInputs.cache
+C:\github\import-images-to-style\v33\ImportImagesToStyle\obj\Debug\net8.0-windows\ImportImagesToStyle.sourcelink.json
+C:\github\import-images-to-style\v33\ImportImagesToStyle\obj\Debug\net8.0-windows\ImportImagesToStyle.dll
+C:\github\import-images-to-style\v33\ImportImagesToStyle\obj\Debug\net8.0-windows\refint\ImportImagesToStyle.dll
+C:\github\import-images-to-style\v33\ImportImagesToStyle\obj\Debug\net8.0-windows\ImportImagesToStyle.pdb
+C:\github\import-images-to-style\v33\ImportImagesToStyle\obj\Debug\net8.0-windows\ref\ImportImagesToStyle.dll
